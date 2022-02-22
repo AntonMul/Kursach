@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.168,=C:\Users\user\Documents\Embarcadero\Studio\Projects\ABOUT.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Kursovaya\Kurs\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Kursovaya\Kurs\Unit12.dfm=C:\Kursovaya\Kurs\Unit14.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.822,=C:\Kursovaya\Kurs\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Kursovaya\Kurs\Unit12.pas=C:\Kursovaya\Kurs\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,D:\1\2\Курсовая\ABOUT.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\ABOUT.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.002,=C:\Kursovaya\Kurs\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Kursovaya\Kurs\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,D:\1\2\Курсовая\Unit1.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=C:\Kursovaya\Kurs\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=C:\Kursovaya\Kurs\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,D:\1\2\Курсовая\Kursovaya.dproj=D:\1\2\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,D:\1\2\Курсовая\Unit2.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,D:\1\2\Курсовая\Unit2.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,=C:\Kursovaya\Kurs\Unit11.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,=D:\1\2\Курсовая\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\Kursovaya\Kurs\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,=C:\Kursovaya\Kurs\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=C:\Kursovaya\Kurs\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,D:\1\2\Курсовая\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\1\2\Курсовая\Project1.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,D:\1\2\Курсовая\ABOUT.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\ABOUT.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,=C:\Kursovaya\Kurs\Unit10.pas</Transaction>
+  </Transactions>
+</BorlandProject>
